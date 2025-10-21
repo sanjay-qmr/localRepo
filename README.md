@@ -1,3 +1,1 @@
-# This is readme file 
-<br>
-it is used to tells about the software to the reader
+this is demo for git and github class
